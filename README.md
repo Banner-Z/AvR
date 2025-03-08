@@ -8,6 +8,8 @@ pip install vllm>=0.6.6.post1
 
 ## Main steps
 
+**Don't forget to set your own file and model paths in the scripts.**
+
 ### Stage 1
 ```
 cd ASCENT
