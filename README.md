@@ -75,6 +75,10 @@ python src/data/prepare_cot_dpo_data.py
 # train your DPO model with the frameworks like LLaMA-Factory (https://github.com/hiyouga/LLaMA-Factory.git)
 ```
 
+## Evaluation
+
+Refer to [README](https://github.com/Banner-Z/ASCENT/blob/main/src/eval/README.md)
+
 ## Citation
 ```
 ```
