@@ -1,4 +1,4 @@
-# ASCENT
+# AvR: Alignment via Refinement
 long CoT training data: [huggingface dataset](https://huggingface.co/datasets/zhk/ASCENT)
 
 ## Set up enviroment
@@ -12,7 +12,7 @@ pip install vllm>=0.6.6.post1
 
 ### Stage 1
 ```
-cd ASCENT
+cd AvR
 
 # use VLLM to deploy the model used to generate sft data.
 bash scripts/run_generative_model_server.sh
