@@ -1,5 +1,6 @@
 # AvR: Alignment via Refinement
 The official repository of paper [Unlocking Recursive Thinking of LLMs: Alignment via Refinement](https://aclanthology.org/2025.findings-acl.582/)
+
 long CoT training data: [huggingface dataset](https://huggingface.co/datasets/zhk/ASCENT)
 
 ## Set up enviroment
