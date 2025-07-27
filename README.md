@@ -1,4 +1,5 @@
 # AvR: Alignment via Refinement
+The official repository of paper [Unlocking Recursive Thinking of LLMs: Alignment via Refinement](https://aclanthology.org/2025.findings-acl.582/)
 long CoT training data: [huggingface dataset](https://huggingface.co/datasets/zhk/ASCENT)
 
 ## Set up enviroment
@@ -83,4 +84,24 @@ Refer to [README](https://github.com/Banner-Z/ASCENT/blob/main/src/eval/README.m
 
 ## Citation
 ```
+@inproceedings{zhang-etal-2025-unlocking,
+    title = "Unlocking Recursive Thinking of {LLM}s: Alignment via Refinement",
+    author = "Zhang, Haoke  and
+      Liang, Xiaobo  and
+      Wang, Cunxiang  and
+      Li, Juntao  and
+      Zhang, Min",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-acl.582/",
+    pages = "11169--11182",
+    ISBN = "979-8-89176-256-5"
+}
 ```
